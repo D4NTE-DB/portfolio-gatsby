@@ -6,10 +6,6 @@ node_modules
 # testing
 /coverage
 
-# production
-build
-public
-
 #development
 .cache
 .husky
