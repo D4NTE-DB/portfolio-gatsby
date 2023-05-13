@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://danielbabilonia.netlify.app/",
     "title": "Gatsby Starter for Daniel Babilonia",
     "titleTemplate": "%s · Daniel Babilonia",
     "description": "A Gatsby Starter Project to easily get started with Daniel Babilonia theme.",
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/EN Daniel Babilonia CV DEF.pdf"
+        "url": "/resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
