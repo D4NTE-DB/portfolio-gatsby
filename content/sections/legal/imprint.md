@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Daniel Babilonia<br />
+El Chagualo<br />
+Medellín<br />
+Colombia
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>dantealigheri.1998@gmail.com</u>
 
 ---
 

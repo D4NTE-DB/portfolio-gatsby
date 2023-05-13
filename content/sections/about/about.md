@@ -3,12 +3,12 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+As an experienced web developer with 4 years of professional experience, I am passionate about creating clean, efficient, and user-friendly websites and applications. I have a strong understanding of web development technologies and programming languages such as HTML, CSS, JavaScript, React Js and complementary frameworks as Gatsby, Bootstrap and Bootswatch, and I am constantly expanding my knowledge and staying up-to-date with the latest trends and best practices.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+In my previous roles, I have demonstrated my ability to work collaboratively with cross-functional teams, communicate effectively with clients and stakeholders, and deliver high-quality products within tight deadlines. I take pride in my attention to detail and my commitment to producing code that is well-structured, maintainable, and scalable.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+In addition to my technical skills, I am also highly adaptable, creative, and solution-oriented. I enjoy tackling complex problems and finding innovative ways to overcome challenges. Whether I am working on a small project or a large-scale enterprise application, I am committed to delivering results that exceed expectations and drive business success.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further and demonstrate my value as a member of your team. :)
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

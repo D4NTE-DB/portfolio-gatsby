@@ -1,10 +1,10 @@
 {
-  "name": "Daniel Babilonia Portfolio's",
+  "name": "Personal Portfolio",
   "email": "dantealigheri.1998@gmail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "Contact me to work together.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/Imagen1.png",
+    "alt": "Personal Pic"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
