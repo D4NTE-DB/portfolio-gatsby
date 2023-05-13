@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🕹️ EASY AND QUICK SETUP",
       "title": "Rick and Morty API",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "description": "",
       "tags": ["API RESTful", "React JS", "Javascript", "CSS", "HTML"],
       "image": {
         "src": "../../images/RicknMorty.png",
@@ -26,7 +26,7 @@
       "visible": true,
       "category": "🧰 EXTENDABLE LAYOUT",
       "title": "Tip Calculator",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "description": "",
       "tags": [ "HTML", "CSS",  "Javascript", "React JS"],
       "image": {
         "src": "../../images/Tip-Calculator.jpeg",
