@@ -21,6 +21,7 @@
     "navigation": {
       "header": [
         { "label": "About Me", "url": "/#about" },
+        { "label": "Details", "url": "/#details" },
         { "label": "Projetcs", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
