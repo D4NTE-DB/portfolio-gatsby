@@ -2,9 +2,9 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://danielbabilonia.netlify.app/",
-    "title": "Gatsby Starter for Daniel Babilonia",
+    "title": "Daniel Babilonia's Portfolio",
     "titleTemplate": "%s · Daniel Babilonia",
-    "description": "A Gatsby Starter Project to easily get started with Daniel Babilonia theme.",
+    "description": "Personal Portfolio.",
     "author": "Daniel Babilonia",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -12,6 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/D4NTE-DB",
       "medium": "https://konstantinmuenster.medium.com",
+      "devto": "https://drive.google.com/file/d/1v39xBdrChjiIuVXKt9sHFKANRb-q-i1p/view?usp=sharing",
       "linkedin": "https://www.linkedin.com/in/daniel-babilonia-072598150/",
       "mail": "mailto:dantealigheri.1998@gmail.com"
     }
