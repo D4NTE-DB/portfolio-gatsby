@@ -16,9 +16,9 @@ export default function IndexPage() {
       <Seo title="Daniel Babilonia Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
+        {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */} 
+        <InterestsSection sectionId="details" heading="Technologies" />
         <AboutSection sectionId="about" heading="About Me" />
-        <InterestsSection sectionId="details" heading="Details" />
         <ProjectsSection sectionId="features" heading="Projects" />
         <ContactSection sectionId="github" heading="Work with me" />
       </Page>
