@@ -17,8 +17,8 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */} 
-        <InterestsSection sectionId="details" heading="Technologies" />
         <AboutSection sectionId="about" heading="About Me" />
+        <InterestsSection sectionId="details" heading="Technologies" />
         <ProjectsSection sectionId="features" heading="Projects" />
         <ContactSection sectionId="github" heading="Work with me" />
       </Page>
