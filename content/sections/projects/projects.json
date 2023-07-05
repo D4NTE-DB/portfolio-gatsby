@@ -24,6 +24,24 @@
     },
     {
       "visible": true,
+      "category": "🧰 Idea Already Being Use By Customers",
+      "title": "A Food Directory of my Local Town",
+      "description": "",
+      "tags": ["HTML", "CSS", "JavaScript", "React JS",  "Bootstrap", "Bootswatch"],
+      "image": {
+        "src": "../../images/WhatsApp Image 2023-07-05 at 12.48.10.jpeg",
+        "alt": "Idea Already Being Use By Customers",  
+        "linkTo": "https://guiasincelejo.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/D4NTE-DB/Portafolio/tree/master"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🧰 EXTENDABLE LAYOUT",
       "title": "Tip Calculator",
       "description": "",
