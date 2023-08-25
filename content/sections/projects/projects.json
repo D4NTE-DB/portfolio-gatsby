@@ -43,6 +43,25 @@
     {
       "visible": true,
       "category": "🧰 EXTENDABLE LAYOUT",
+      "title": "Portfolio from the Scratch",
+      "description": "",
+      "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "image": {
+        "src": "../../images/Captura de pantalla (4).png",
+        "alt": "Extendable Layout",  
+        "linkTo": "https://danielbabilonia3.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/D4NTE-DB/Portafolio/tree/master"
+        }
+      ]
+    }
+    ,
+    {
+      "visible": true,
+      "category": "🧰 EXTENDABLE LAYOUT",
       "title": "Tip Calculator",
       "description": "",
       "tags": [ "HTML", "CSS",  "Javascript", "React JS"],
@@ -59,24 +78,6 @@
         {
           "type": "external",
           "url": "https://www.frontendmentor.io/solutions/tip-calculator-react-js-k09mykREfO"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Portfolio from the Scratch",
-      "description": "",
-      "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      "image": {
-        "src": "../../images/Captura de pantalla (4).png",
-        "alt": "Extendable Layout",  
-        "linkTo": "https://danielbabilonia3.netlify.app/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/D4NTE-DB/Portafolio/tree/master"
         }
       ]
     }
